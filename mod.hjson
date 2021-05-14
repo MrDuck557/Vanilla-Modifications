@@ -1,0 +1,9 @@
+name: "vanilla-mod"
+displayName: "Vanilla Modifications"
+author: MrDuck557
+description: "4 long bridges"
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: []
+hidden: false
+repo: MrDuck557/Vanilla-Modifications
